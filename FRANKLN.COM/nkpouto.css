@@ -1,0 +1,33 @@
+h1 {
+ color: blue;height: 500;  width: 250; HELLO WORLD
+}
+h2{
+    color:green;
+}
+fieldset{
+    font-style: oblique;
+    color: blue;} 
+    .tables{
+        background-color: blue;
+        color: black;
+    }
+    .lables h1{
+        color: black;
+    }
+    .border{
+        color: blue;
+    }
+    section{
+        height: 500px;
+        width: 1320px;
+        /*background-color: black;*/
+        background-image: url("./1640116714082-removebg-preview\ \(3\).png");
+        background-image: ;
+        background-repeat: no-repeat;
+        background-size:500px;
+        background-position:right;
+        background-color: blue;
+        background-attachment:;
+        border: 10px solid red;
+        }
+        
